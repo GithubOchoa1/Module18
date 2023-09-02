@@ -1,0 +1,21 @@
+{
+  "name": "module18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GithubOchoa1/Module18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GithubOchoa1/Module18/issues"
+  },
+  "homepage": "https://github.com/GithubOchoa1/Module18#readme"
+}
