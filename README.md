@@ -18,10 +18,20 @@ Testing API POST, PUT, and DELETE routes in Insomnia Core are able to successful
 Testing API POST and DELETE routes in Insomnia Core are able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
 <h2>Screenshot:</h2>
+The following show examples of the application's API routes being tested in Insomnia.
+
+
+
+
+
+
+The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
+
+
 
 
 
 <h1>Submission:</h1>
 <ul>
-<li> <a href="">
+<li> <a href="https://github.com/GithubOchoa1/Module18">
 Link</a></li>
