@@ -21,12 +21,15 @@ Testing API POST and DELETE routes in Insomnia Core are able to successfully cre
 The following show examples of the application's API routes being tested in Insomnia.
 
 
+![imson](https://github.com/GithubOchoa1/Module18/assets/103874328/b0f3b0a8-07ef-48e3-9a6a-487447e513ad)
 
 
+![2](https://github.com/GithubOchoa1/Module18/assets/103874328/e29c659a-e752-4d9d-ac97-36d29b55c4cd)
 
 
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
+![3](https://github.com/GithubOchoa1/Module18/assets/103874328/90a366f8-2d1a-4be6-9d5d-757019c370a7)
 
 
 
